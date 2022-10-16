@@ -1,8 +1,7 @@
 # UTS-PAM
-
-Nama: Fahriza Yusefa <br>
-NIM: 119140005 <br>
-Kelas: PAM RB <br>
+    Nama: Fahriza Yusefa <br>
+    NIM: 119140005 <br>
+    Kelas: PAM RB <br>
 
 # Nama Aplikasi
 QrvidApp
@@ -31,11 +30,13 @@ Aplikasi ini merupakan aplikasi yang memiliki dua fitur, yaitu :
 
 
 # Cara install aplikasi
+    1. Download file .apk pada folder File Aplikasi atau melalui link yang tertera pada segment <b>"Link Apk"</b>.
+    2. Jika sudah selesai download, klik aplikasi lalu klik install
+    3. Jika ada peringatan dari sistem keamanan, klik tetap install
+    4. Buka aplikasi yang telah di install
 
-1. Download file .apk pada folder File Aplikasi
-2. Jika sudah selesai download, klik aplikasi lalu klik install
-3. Jika ada peringatan dari sistem keamanan, klik tetap install
-4. Buka aplikasi yang telah di install
+# Link Apk
+    https://github.com/FahrizaYusefa/UTS-PAM/blob/8c093ed4c37f2542feaddc0a0b609eeecc6b2c7c/File%20Aplikasi/QrvidApp-eacb9708c1504e3d960b7b4a2697c099-signed.apk
 
 # ScreenShoot Tampilan Aplikasi
 a. Home Page <br>
