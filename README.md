@@ -30,7 +30,7 @@ Aplikasi ini merupakan aplikasi yang memiliki dua fitur, yaitu :
 
 
 # Cara install aplikasi
-    1. Download file .apk pada folder File Aplikasi atau melalui link yang tertera pada segment <b>"Link Apk"</b>.
+    1. Download file .apk pada folder File Aplikasi atau melalui link yang tertera pada segment "Link Apk".
     2. Jika sudah selesai download, klik aplikasi lalu klik install
     3. Jika ada peringatan dari sistem keamanan, klik tetap install
     4. Buka aplikasi yang telah di install
