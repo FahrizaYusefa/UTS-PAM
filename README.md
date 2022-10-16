@@ -1,10 +1,5 @@
 # UTS-PAM
 
-1. Nama Aplikasi
-2. Deskripsi Aplikasi
-3. Daftar package yang digunakan (expo)
-4. Cara menginstall aplikasi (dalam mode pengembangan)
-
 Nama: Fahriza Yusefa <br>
 NIM: 119140005 <br>
 Kelas: PAM RB <br>
@@ -41,3 +36,17 @@ Aplikasi ini merupakan aplikasi yang memiliki dua fitur, yaitu :
 2. Jika sudah selesai download, klik aplikasi lalu klik install
 3. Jika ada peringatan dari sistem keamanan, klik tetap install
 4. Buka aplikasi yang telah di install
+
+# ScreenShoot Tampilan Aplikasi
+a. Home Page <br>
+<img src="/File Aplikasi/HomePage.jpg" alt="Home Page" width="200" height="auto"> <br>
+b. Fitur QR <br>
+<img src="/File Aplikasi/FiturQR.jpg" alt="Fitur QR" width="200" height="auto"> <br>
+c. Hasil Pengujian QR <br>
+<img src="/File Aplikasi/HasilPengujianQR.jpg" alt="Hasil Pengujian QR" width="200" height="auto"> <br>
+d. Fitur Video <br>
+<img src="/File Aplikasi/FiturVideo.jpg" alt="Fitur Video" width="200" height="auto"> <br>
+e. Hasil Video <br>
+<img src="/File Aplikasi/HasilVideo.jpg" alt="Hasil Video" width="200" height="auto"> <br>
+f. Hasil Video Ketika diputar <br>
+<img src="/File Aplikasi/HasilVideoKetikaDiPutar.jpg" alt="Hasil Video Ketika diputar" width="200" height="auto"> <br>
