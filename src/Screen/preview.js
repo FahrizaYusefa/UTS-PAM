@@ -126,6 +126,7 @@ const styles = StyleSheet.create({
         borderRadius: 20,
     },
     teks: {
+        marginTop: 10,
         textAlign: 'center'
     }
 })
