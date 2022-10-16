@@ -1,7 +1,7 @@
 # UTS-PAM
-    Nama: Fahriza Yusefa <br>
-    NIM: 119140005 <br>
-    Kelas: PAM RB <br>
+    Nama: Fahriza Yusefa
+    NIM: 119140005
+    Kelas: PAM RB
 
 # Nama Aplikasi
 QrvidApp
